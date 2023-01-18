@@ -1,4 +1,5 @@
-// Sasara Tamaki
+// Name: Sasara Tamaki
+// Date: Jan 19, 2023
 
 #include<iostream>
 using namespace std;
